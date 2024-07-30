@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "mlflow"
+project_name = "mlproject"
 
 
 list_of_files = [
